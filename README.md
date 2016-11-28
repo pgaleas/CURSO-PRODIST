@@ -1,1 +1,1 @@
-# CURSO DE PROGRAMACIÓN DISTRIBUIDA
+Curso de Programación Distribuida de la Universidad de La Frontera.
