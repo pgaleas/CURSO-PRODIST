@@ -1,2 +1,1 @@
-# DISPROG-COURSE
-Curso de Programación Distribuida
+# CURSO DE PROGRAMACIÓN DISTRIBUIDA
