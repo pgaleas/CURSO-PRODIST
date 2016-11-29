@@ -1,4 +1,6 @@
-https://github.com/ASTROINGENIERIA/ASTROUFRO/blob/master/images/LogoAstroUfro_small.png
+
+
+![logo](https://github.com/ASTROINGENIERIA/ASTROUFRO/blob/master/images/LogoAstroUfro_small.png)
 # CURSO DE PROGRAMACIÓN DISTRIBUIDA
 ## Universidad de La Frontera
 
