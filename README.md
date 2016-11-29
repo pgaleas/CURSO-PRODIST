@@ -39,7 +39,7 @@ Disponibles en la [Wiki](https://github.com/pgaleas/CURSO-PRODIST/wiki)
  * ALMA Common Software (ACS)
  * Tango
 
-## Unidad 3:  Proyecto
+## Unidad 3:  Desarrollo de Prototipo
 * Diseño de una aplicación distribuida
 * Implementación
 * Presentación 
