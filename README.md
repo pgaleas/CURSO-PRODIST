@@ -20,6 +20,7 @@ Al finalizar con éxito la asignatura o módulo los estudiantes deberán ser cap
 1. Diseñar e implementar una aplicación simple de procesamiento distribuido en base al middleware seleccionado.
 
 # Contenidos
+Disponibles en la [Wiki](https://github.com/pgaleas/CURSO-PRODIST/wiki)
 ## Unidad 1: Computación Distribuida
 * Historia 
 * Conceptos básicos de Computación Distribuida
